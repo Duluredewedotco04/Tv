@@ -1,0 +1,5 @@
+{
+  "name": "Angular IPTV Player",
+  "description": "A sleek IPTV player built with Angular and Tailwind CSS. Browse channels by genre and watch live streams from the IPTV-ORG project.",
+  "requestFramePermissions": []
+}
